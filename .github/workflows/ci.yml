@@ -3,7 +3,7 @@ name: Tests
 on:
   push:
     branches:
-      - v-6.0.3
+      - v-2.0.20
 
 jobs:
   tests:
